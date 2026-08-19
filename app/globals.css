@@ -1,0 +1,77 @@
+@import "tailwindcss";
+
+:root {
+  --km-blue: #154897;
+  --km-blue-dark: #0e3470;
+  --km-blue-light: #2e6bc8;
+  --km-orange: #ee7117;
+  --km-orange-dark: #d45f0b;
+  --km-orange-soft: #fff1e6;
+  --km-ink: #111827;
+  --km-muted: #6b7280;
+  --km-line: #e5e7eb;
+  --km-bg: #ffffff;
+  --km-bg-alt: #f7f8fa;
+  --km-success: #16a34a;
+  --km-warn: #f59e0b;
+  --km-danger: #dc2626;
+}
+
+@theme inline {
+  --color-km-blue: var(--km-blue);
+  --color-km-blue-dark: var(--km-blue-dark);
+  --color-km-blue-light: var(--km-blue-light);
+  --color-km-orange: var(--km-orange);
+  --color-km-orange-dark: var(--km-orange-dark);
+  --color-km-orange-soft: var(--km-orange-soft);
+  --color-km-ink: var(--km-ink);
+  --color-km-muted: var(--km-muted);
+  --color-km-line: var(--km-line);
+  --color-km-bg: var(--km-bg);
+  --color-km-bg-alt: var(--km-bg-alt);
+  --color-km-success: var(--km-success);
+  --color-km-warn: var(--km-warn);
+  --color-km-danger: var(--km-danger);
+  --font-heading: "Poppins", "Segoe UI", ui-sans-serif, system-ui, sans-serif;
+  --font-body: "Inter", "Segoe UI", ui-sans-serif, system-ui, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--km-bg);
+  color: var(--km-ink);
+  font-family: var(--font-body), system-ui, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading), system-ui, sans-serif;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+@keyframes shimmer {
+  0% { background-position: -400px 0; }
+  100% { background-position: 400px 0; }
+}
+.skeleton {
+  background: linear-gradient(90deg, #eee 0px, #f5f5f5 40px, #eee 80px);
+  background-size: 800px 100%;
+  animation: shimmer 1.4s infinite linear;
+}
