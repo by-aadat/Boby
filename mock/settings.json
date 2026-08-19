@@ -1,0 +1,62 @@
+{
+  "siteName": "KartME",
+  "logo": "/logo.png",
+  "favicon": "/favicon.ico",
+  "contactNumber": "+91 98765 43210",
+  "email": "support@kartme.in",
+  "address": "Kamla Nagar, Delhi - 110007",
+  "socialLinks": [
+    {
+      "platform": "instagram",
+      "url": "https://instagram.com/kartme"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://facebook.com/kartme"
+    }
+  ],
+  "freeShippingThreshold": 999,
+  "shippingCharge": 79,
+  "lowStockThreshold": 5,
+  "currency": "INR",
+  "metaTitle": "KartME — Fashion for Everyone",
+  "metaDescription": "Shop the latest Men's, Women's & Kids' fashion at KartME. Great prices, fast delivery across India.",
+  "homepageSections": [
+    {
+      "id": "hero",
+      "enabled": true
+    },
+    {
+      "id": "categories",
+      "enabled": true
+    },
+    {
+      "id": "flashSale",
+      "enabled": true
+    },
+    {
+      "id": "bestSellers",
+      "enabled": true
+    },
+    {
+      "id": "newArrivals",
+      "enabled": true
+    },
+    {
+      "id": "promoBanner",
+      "enabled": true
+    },
+    {
+      "id": "brandStrip",
+      "enabled": true
+    },
+    {
+      "id": "reviews",
+      "enabled": true
+    },
+    {
+      "id": "newsletter",
+      "enabled": true
+    }
+  ]
+}

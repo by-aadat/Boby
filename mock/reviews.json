@@ -1,0 +1,402 @@
+[
+  {
+    "reviewId": "REV-000001",
+    "productId": "PRD-000001",
+    "customerName": "Rohit Verma",
+    "rating": 5,
+    "review": "Good value for money. Delivery was quick too.",
+    "images": [],
+    "date": "2026-08-16T00:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000002",
+    "productId": "PRD-000001",
+    "customerName": "Ananya Gupta",
+    "rating": 4,
+    "review": "Color is exactly as shown in the picture. Recommended.",
+    "images": [],
+    "date": "2026-08-15T12:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000003",
+    "productId": "PRD-000002",
+    "customerName": "Vikram Singh",
+    "rating": 5,
+    "review": "Comfortable for daily wear, will buy again.",
+    "images": [],
+    "date": "2026-08-15T00:47:44.408Z",
+    "verifiedPurchase": false
+  },
+  {
+    "reviewId": "REV-000004",
+    "productId": "PRD-000002",
+    "customerName": "Neha Kapoor",
+    "rating": 4,
+    "review": "Nice product but sizing runs slightly small.",
+    "images": [],
+    "date": "2026-08-14T12:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000005",
+    "productId": "PRD-000003",
+    "customerName": "Arjun Mehta",
+    "rating": 5,
+    "review": "Great quality fabric and perfect fit. Very happy with the purchase.",
+    "images": [],
+    "date": "2026-08-14T00:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000006",
+    "productId": "PRD-000003",
+    "customerName": "Priya Sharma",
+    "rating": 4,
+    "review": "Good value for money. Delivery was quick too.",
+    "images": [],
+    "date": "2026-08-13T12:47:44.408Z",
+    "verifiedPurchase": false
+  },
+  {
+    "reviewId": "REV-000007",
+    "productId": "PRD-000004",
+    "customerName": "Rohit Verma",
+    "rating": 5,
+    "review": "Color is exactly as shown in the picture. Recommended.",
+    "images": [],
+    "date": "2026-08-13T00:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000008",
+    "productId": "PRD-000004",
+    "customerName": "Ananya Gupta",
+    "rating": 4,
+    "review": "Comfortable for daily wear, will buy again.",
+    "images": [],
+    "date": "2026-08-12T12:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000009",
+    "productId": "PRD-000005",
+    "customerName": "Vikram Singh",
+    "rating": 5,
+    "review": "Nice product but sizing runs slightly small.",
+    "images": [],
+    "date": "2026-08-12T00:47:44.408Z",
+    "verifiedPurchase": false
+  },
+  {
+    "reviewId": "REV-000010",
+    "productId": "PRD-000005",
+    "customerName": "Neha Kapoor",
+    "rating": 4,
+    "review": "Great quality fabric and perfect fit. Very happy with the purchase.",
+    "images": [],
+    "date": "2026-08-11T12:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000011",
+    "productId": "PRD-000006",
+    "customerName": "Arjun Mehta",
+    "rating": 5,
+    "review": "Good value for money. Delivery was quick too.",
+    "images": [],
+    "date": "2026-08-11T00:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000012",
+    "productId": "PRD-000006",
+    "customerName": "Priya Sharma",
+    "rating": 4,
+    "review": "Color is exactly as shown in the picture. Recommended.",
+    "images": [],
+    "date": "2026-08-10T12:47:44.408Z",
+    "verifiedPurchase": false
+  },
+  {
+    "reviewId": "REV-000013",
+    "productId": "PRD-000007",
+    "customerName": "Rohit Verma",
+    "rating": 5,
+    "review": "Comfortable for daily wear, will buy again.",
+    "images": [],
+    "date": "2026-08-10T00:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000014",
+    "productId": "PRD-000007",
+    "customerName": "Ananya Gupta",
+    "rating": 4,
+    "review": "Nice product but sizing runs slightly small.",
+    "images": [],
+    "date": "2026-08-09T12:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000015",
+    "productId": "PRD-000008",
+    "customerName": "Vikram Singh",
+    "rating": 5,
+    "review": "Great quality fabric and perfect fit. Very happy with the purchase.",
+    "images": [],
+    "date": "2026-08-09T00:47:44.408Z",
+    "verifiedPurchase": false
+  },
+  {
+    "reviewId": "REV-000016",
+    "productId": "PRD-000008",
+    "customerName": "Neha Kapoor",
+    "rating": 4,
+    "review": "Good value for money. Delivery was quick too.",
+    "images": [],
+    "date": "2026-08-08T12:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000017",
+    "productId": "PRD-000009",
+    "customerName": "Arjun Mehta",
+    "rating": 5,
+    "review": "Color is exactly as shown in the picture. Recommended.",
+    "images": [],
+    "date": "2026-08-08T00:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000018",
+    "productId": "PRD-000009",
+    "customerName": "Priya Sharma",
+    "rating": 4,
+    "review": "Comfortable for daily wear, will buy again.",
+    "images": [],
+    "date": "2026-08-07T12:47:44.408Z",
+    "verifiedPurchase": false
+  },
+  {
+    "reviewId": "REV-000019",
+    "productId": "PRD-000010",
+    "customerName": "Rohit Verma",
+    "rating": 5,
+    "review": "Nice product but sizing runs slightly small.",
+    "images": [],
+    "date": "2026-08-07T00:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000020",
+    "productId": "PRD-000010",
+    "customerName": "Ananya Gupta",
+    "rating": 4,
+    "review": "Great quality fabric and perfect fit. Very happy with the purchase.",
+    "images": [],
+    "date": "2026-08-06T12:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000021",
+    "productId": "PRD-000011",
+    "customerName": "Vikram Singh",
+    "rating": 5,
+    "review": "Good value for money. Delivery was quick too.",
+    "images": [],
+    "date": "2026-08-06T00:47:44.408Z",
+    "verifiedPurchase": false
+  },
+  {
+    "reviewId": "REV-000022",
+    "productId": "PRD-000011",
+    "customerName": "Neha Kapoor",
+    "rating": 4,
+    "review": "Color is exactly as shown in the picture. Recommended.",
+    "images": [],
+    "date": "2026-08-05T12:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000023",
+    "productId": "PRD-000012",
+    "customerName": "Arjun Mehta",
+    "rating": 5,
+    "review": "Comfortable for daily wear, will buy again.",
+    "images": [],
+    "date": "2026-08-05T00:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000024",
+    "productId": "PRD-000012",
+    "customerName": "Priya Sharma",
+    "rating": 4,
+    "review": "Nice product but sizing runs slightly small.",
+    "images": [],
+    "date": "2026-08-04T12:47:44.408Z",
+    "verifiedPurchase": false
+  },
+  {
+    "reviewId": "REV-000025",
+    "productId": "PRD-000013",
+    "customerName": "Rohit Verma",
+    "rating": 5,
+    "review": "Great quality fabric and perfect fit. Very happy with the purchase.",
+    "images": [],
+    "date": "2026-08-04T00:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000026",
+    "productId": "PRD-000013",
+    "customerName": "Ananya Gupta",
+    "rating": 4,
+    "review": "Good value for money. Delivery was quick too.",
+    "images": [],
+    "date": "2026-08-03T12:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000027",
+    "productId": "PRD-000014",
+    "customerName": "Vikram Singh",
+    "rating": 5,
+    "review": "Color is exactly as shown in the picture. Recommended.",
+    "images": [],
+    "date": "2026-08-03T00:47:44.408Z",
+    "verifiedPurchase": false
+  },
+  {
+    "reviewId": "REV-000028",
+    "productId": "PRD-000014",
+    "customerName": "Neha Kapoor",
+    "rating": 4,
+    "review": "Comfortable for daily wear, will buy again.",
+    "images": [],
+    "date": "2026-08-02T12:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000029",
+    "productId": "PRD-000015",
+    "customerName": "Arjun Mehta",
+    "rating": 5,
+    "review": "Nice product but sizing runs slightly small.",
+    "images": [],
+    "date": "2026-08-02T00:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000030",
+    "productId": "PRD-000015",
+    "customerName": "Priya Sharma",
+    "rating": 4,
+    "review": "Great quality fabric and perfect fit. Very happy with the purchase.",
+    "images": [],
+    "date": "2026-08-01T12:47:44.408Z",
+    "verifiedPurchase": false
+  },
+  {
+    "reviewId": "REV-000031",
+    "productId": "PRD-000016",
+    "customerName": "Rohit Verma",
+    "rating": 5,
+    "review": "Good value for money. Delivery was quick too.",
+    "images": [],
+    "date": "2026-08-01T00:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000032",
+    "productId": "PRD-000016",
+    "customerName": "Ananya Gupta",
+    "rating": 4,
+    "review": "Color is exactly as shown in the picture. Recommended.",
+    "images": [],
+    "date": "2026-07-31T12:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000033",
+    "productId": "PRD-000017",
+    "customerName": "Vikram Singh",
+    "rating": 5,
+    "review": "Comfortable for daily wear, will buy again.",
+    "images": [],
+    "date": "2026-07-31T00:47:44.408Z",
+    "verifiedPurchase": false
+  },
+  {
+    "reviewId": "REV-000034",
+    "productId": "PRD-000017",
+    "customerName": "Neha Kapoor",
+    "rating": 4,
+    "review": "Nice product but sizing runs slightly small.",
+    "images": [],
+    "date": "2026-07-30T12:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000035",
+    "productId": "PRD-000018",
+    "customerName": "Arjun Mehta",
+    "rating": 5,
+    "review": "Great quality fabric and perfect fit. Very happy with the purchase.",
+    "images": [],
+    "date": "2026-07-30T00:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000036",
+    "productId": "PRD-000018",
+    "customerName": "Priya Sharma",
+    "rating": 4,
+    "review": "Good value for money. Delivery was quick too.",
+    "images": [],
+    "date": "2026-07-29T12:47:44.408Z",
+    "verifiedPurchase": false
+  },
+  {
+    "reviewId": "REV-000037",
+    "productId": "PRD-000019",
+    "customerName": "Rohit Verma",
+    "rating": 5,
+    "review": "Color is exactly as shown in the picture. Recommended.",
+    "images": [],
+    "date": "2026-07-29T00:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000038",
+    "productId": "PRD-000019",
+    "customerName": "Ananya Gupta",
+    "rating": 4,
+    "review": "Comfortable for daily wear, will buy again.",
+    "images": [],
+    "date": "2026-07-28T12:47:44.408Z",
+    "verifiedPurchase": true
+  },
+  {
+    "reviewId": "REV-000039",
+    "productId": "PRD-000020",
+    "customerName": "Vikram Singh",
+    "rating": 5,
+    "review": "Nice product but sizing runs slightly small.",
+    "images": [],
+    "date": "2026-07-28T00:47:44.408Z",
+    "verifiedPurchase": false
+  },
+  {
+    "reviewId": "REV-000040",
+    "productId": "PRD-000020",
+    "customerName": "Neha Kapoor",
+    "rating": 4,
+    "review": "Great quality fabric and perfect fit. Very happy with the purchase.",
+    "images": [],
+    "date": "2026-07-27T12:47:44.408Z",
+    "verifiedPurchase": true
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "brandId": "BRD-0001",
+    "name": "KamlaWeave",
+    "slug": "kamlaweave",
+    "logo": "https://picsum.photos/seed/brand-KamlaWeave/200/100",
+    "productCount": 6
+  },
+  {
+    "brandId": "BRD-0002",
+    "name": "Delhi Denim",
+    "slug": "delhi-denim",
+    "logo": "https://picsum.photos/seed/brand-Delhi Denim/200/100",
+    "productCount": 6
+  },
+  {
+    "brandId": "BRD-0003",
+    "name": "Meraki Casuals",
+    "slug": "meraki-casuals",
+    "logo": "https://picsum.photos/seed/brand-Meraki Casuals/200/100",
+    "productCount": 6
+  },
+  {
+    "brandId": "BRD-0004",
+    "name": "Northline",
+    "slug": "northline",
+    "logo": "https://picsum.photos/seed/brand-Northline/200/100",
+    "productCount": 7
+  },
+  {
+    "brandId": "BRD-0005",
+    "name": "Zindagi Ethnic",
+    "slug": "zindagi-ethnic",
+    "logo": "https://picsum.photos/seed/brand-Zindagi Ethnic/200/100",
+    "productCount": 6
+  },
+  {
+    "brandId": "BRD-0006",
+    "name": "Urban Threads",
+    "slug": "urban-threads",
+    "logo": "https://picsum.photos/seed/brand-Urban Threads/200/100",
+    "productCount": 7
+  },
+  {
+    "brandId": "BRD-0007",
+    "name": "Chowk Street",
+    "slug": "chowk-street",
+    "logo": "https://picsum.photos/seed/brand-Chowk Street/200/100",
+    "productCount": 6
+  },
+  {
+    "brandId": "BRD-0008",
+    "name": "Rohini Fab",
+    "slug": "rohini-fab",
+    "logo": "https://picsum.photos/seed/brand-Rohini Fab/200/100",
+    "productCount": 7
+  }
+]

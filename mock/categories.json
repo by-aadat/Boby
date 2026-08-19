@@ -1,0 +1,42 @@
+[
+  {
+    "categoryId": "CAT-0001",
+    "name": "Men",
+    "slug": "men",
+    "parentCategory": null,
+    "image": "https://picsum.photos/seed/cat-Men/400/400",
+    "productCount": 15,
+    "sortOrder": 1,
+    "status": "active"
+  },
+  {
+    "categoryId": "CAT-0002",
+    "name": "Women",
+    "slug": "women",
+    "parentCategory": null,
+    "image": "https://picsum.photos/seed/cat-Women/400/400",
+    "productCount": 18,
+    "sortOrder": 2,
+    "status": "active"
+  },
+  {
+    "categoryId": "CAT-0003",
+    "name": "Kids",
+    "slug": "kids",
+    "parentCategory": null,
+    "image": "https://picsum.photos/seed/cat-Kids/400/400",
+    "productCount": 12,
+    "sortOrder": 3,
+    "status": "active"
+  },
+  {
+    "categoryId": "CAT-0004",
+    "name": "Accessories",
+    "slug": "accessories",
+    "parentCategory": null,
+    "image": "https://picsum.photos/seed/cat-Accessories/400/400",
+    "productCount": 6,
+    "sortOrder": 4,
+    "status": "active"
+  }
+]

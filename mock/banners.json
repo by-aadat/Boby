@@ -1,0 +1,35 @@
+[
+  {
+    "bannerId": "BNR-0001",
+    "title": "Big Fashion Sale",
+    "subtitle": "Up to 60% OFF on Men's & Women's Wear",
+    "image": "https://picsum.photos/seed/banner-1/1600/500",
+    "mobileImage": "https://picsum.photos/seed/banner-1m/800/900",
+    "buttonText": "Shop Now",
+    "buttonUrl": "/products",
+    "sortOrder": 1,
+    "status": "active"
+  },
+  {
+    "bannerId": "BNR-0002",
+    "title": "New Season Ethnic",
+    "subtitle": "Fresh Anarkali & Kurti Collection",
+    "image": "https://picsum.photos/seed/banner-2/1600/500",
+    "mobileImage": "https://picsum.photos/seed/banner-2m/800/900",
+    "buttonText": "Explore Collection",
+    "buttonUrl": "/category/women",
+    "sortOrder": 2,
+    "status": "active"
+  },
+  {
+    "bannerId": "BNR-0003",
+    "title": "Kids Festive Wear",
+    "subtitle": "Sherwani & Ethnic Sets from ₹799",
+    "image": "https://picsum.photos/seed/banner-3/1600/500",
+    "mobileImage": "https://picsum.photos/seed/banner-3m/800/900",
+    "buttonText": "Shop Kids",
+    "buttonUrl": "/category/kids",
+    "sortOrder": 3,
+    "status": "active"
+  }
+]
